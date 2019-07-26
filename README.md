@@ -25,4 +25,4 @@ curl --header "Content-Type: application/json" \
 ```
 
 
-The live website is running here [QR Code API]([http://jp-qr.herokuapp.com/](https://jp-qr.herokuapp.com/)) with some changes.
+The live website is running here [QR Code API](http://jp-qr.herokuapp.com/) with some changes.
