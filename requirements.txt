@@ -13,4 +13,4 @@ qrcode==6.1
 requests==2.22.0
 six==1.12.0
 sqlparse==0.3.0
-urllib3==1.25.8
+urllib3==1.26.5
