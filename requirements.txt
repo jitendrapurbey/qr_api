@@ -10,7 +10,7 @@ oauthlib==3.0.2
 Pillow==9.3.0
 pytz==2019.1
 qrcode==6.1
-requests==2.22.0
+requests==2.31.0
 six==1.12.0
 sqlparse==0.3.0
 urllib3==1.26.5
